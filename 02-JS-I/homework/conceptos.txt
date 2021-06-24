@@ -1,0 +1,23 @@
+Ejercicio 1 del Homework.Explicación de conceptos:
+
+* VARIABLES: (var) es un elemento en donde almacenar algo para usarla mas tarde, pueden haber variables de tipo string (texto), numericas, y booleanas (true - false). En JV las variables son dinamicas, se pueden 
+definr, cambiar y redefinir en cualquier momento. 
+Para que una variable no pueda cambiar su valor tiene que ser Constante (const)
+
+* STRINGS:  es una cadena de caracteres de texto, y siempre va entre comillas cuando se lo asignamos a una variable.
+
+* FUNCIONES (argumentos, 'return'):  
+Una funcion es un objeto o una agrupacion de codigo definido con un nombre, que realiza y devuelve algo, y que me permite invocarla (ejecutarla) sin volver a escribir ese codogo n veces. 
+
+Los ARGUMENTOS de la funcion son los datos que van entre parentesis, separados por comas, y pueden haber uno o multiples argumentos. Pueden ser datos, o variables. Los valores de las variables que usamos en la
+funcion se los damos al invocar la funcion. Tambien puede no tener argumentos.
+
+RETURN es un comando que se usa dentro del codigo de la funcion, y es lo que hace quela funcion me retorne o devuelva algun valor, es la forma es que los datos 'escapan' de la funcion, se escribe al final del 
+codigo de la funcion. Las funciones pueden retornar un solo valor unico.
+
+* DECLARACIONES IF: es una funcion que nos permite agregar logica booleana al codigo, si una condicion es verdadera (true) se ejecuta tal codigo; y si esa condicion no se cumple (false), se ejecuta otro codigo. 
+Entonces se utilizan operadores de comparacion para ello. Puede ir acompañado de ELSE que incluye el codigo a ejecutar si la condicion de IF es false. 
+Tambien puede haber un anidamiento multiple de condiciones mediante IF ELSE IF
+
+*VALORES BOOLEANOS: es un valor binario originado en 0 - 1 , donde uno  verdadero (true) o falso (false). Sirven para las los operadores de comparacion que pueden arrojar uno de esos dos resultados, y usarlos en 
+una logica de Conrtrol Flow, cdo queremos que se ejecute tal cosa si se cumple un reultado, y que se ejecute otra csa si obtenemos el resultado contrario.
