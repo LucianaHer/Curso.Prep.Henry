@@ -1,0 +1,20 @@
+HOMEWORK - JAVA SCRIPT II:
+
+Ejercicio 1 del Homework.Explicación de conceptos:
+
+* for:
+es el comando que da incicio a un bucle de codigo, que se ejecuta n veces cuando una condicion deje de de ser true. Se usa para ejecutar o 
+repetir un bloque de codigo muchas veces.
+Se declara una variable con un valor asignado, luego una expresion de comparacion de esa variable, y luego el incremento de la variable. 
+El bloque de codigo se repite hasta que la condicion deje de ser true.
+
+
+* '&&' , '||' , '!'
+son operadores lógicos, que se usan en los condicionales, son para comparar dos expresiones de igualdad, es decir para comparar valores 
+booleanos. Si las dos expresiones son verdaderas, si ambas son verdaderas, o si ninguna es verdadera.
+
+&& --> (and, y)  devuelve true solo si AMBAS expresiones son verdaderas, caso en el cual se ejecuta el bloque de codigo condiciobal.
+
+|| --> (or, o)  devuelve true, si una o ambas expresiones son verdaderas.
+
+!  --> (negacion) devuelve el valor booleando opuesto de la operacion o expresion que se le pasa.
