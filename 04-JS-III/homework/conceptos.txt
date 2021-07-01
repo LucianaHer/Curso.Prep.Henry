@@ -1,0 +1,10 @@
+HOMEWORK - JAVA SCRIPT III
+
+Ejercicio 1 del Homework.Explicación de conceptos:
+
+ARRAYS (arreglos):
+es una estructura de datos, como una lista de elementos ordenados. Los datos que contiene un array pueden ser de cualquier tipo: numeros, strings, booleanos,
+null, undefined, incluse un array puede contener como dato otro array, o inclusive una funcion como dato. Se define con un mombre y se usan []. Se lo puede definir vacio,
+y luego ir introduciendo datos, o se lo puede definir literal con valores o datos desde un comienzo, e igual despues se le pueden seguir asignando valores. 
+Los indices de un array van desde la posicion 0, y cada posicion es un dato que se puede utilizar para hacer operaciones o funciones. Se le pueden asignar valores a los
+datos en un indice especifico, o al final. Se lo puede recorrer, y tb se le pueden sacar datos a un array.
