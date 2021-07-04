@@ -1,0 +1,28 @@
+HOMEWORK - JAVA SCRIPT IV
+
+Ejercicio 1 del Homework.Explicación de conceptos:
+
+* OBJETOS : un objeto es una estructura de datos, un tipo de contenedor de datos; con una coleccion de propiedades, cada propiedad (o dato) en un objeto es una asiociacion 
+entre un nombre de propiedad y un valor de esa propiedad (par key-value). Un objeto puede tener muchos pares key/value (clave.valor).
+
+*PROPIEDADES:  una propiedad en un objeto es cada par key/value (clave.valor), un objeto puede tener muchas propiedades distintas, de cualquier tipo de datos (numericos,
+strings, booleanos, arrays, tros objetos e incluso funciones).
+
+* METODOS: se llama metodo cuando una propiedad dentro de un objeto que es una funcion. Es decir son las funciones guardadas en un objeto. 
+Para invocar esa propiedad que es un metodo de un objeto, se utiliza la palabra clave THIS.
+
+* BUCLE for... in: es un bucle que se utiliza para recorrer o iterear sobre cada par clave.valor (key.value) (o propiedad) de un objeto. Itera sobre todas las propiedades
+numerables del objetos (no arrays y no metodos).
+ No necesariamente se recorre en un orden.
+Se declara una variable que en cada iteracion toma el key.value del objeto. El bucle termina cuando se hayan recorrido todas las claves. 
+
+* NOTACION DE PUNTOS vs NOTACION DE CORCHETES: son las dos maneras que se pueden usar para acceder a las propiedades de un objeto.
+
+- Bracket notation (Corchetes [] ): es similar a como se accede a los elementos de un array
+                                    nombreObjeto ['propiedad´]
+                                    Es mas versatil su uso y se usa gralmente cuando le asignamos el valor de esa propiedad a una variable, y asi usamos la variable 
+                                    en lugar de el nombre de la propiedad.
+
+- dot notation (con .): es mas facil de escribir
+                        nombreObjeto.propiedad
+                        no me permite trabajar con variables, ya que el nombre propiedad lo toma literal a como llamamos a la clave de esa propiedad.
