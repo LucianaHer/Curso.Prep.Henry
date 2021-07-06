@@ -1,0 +1,14 @@
+HOMEWORK - JAVA SCRIPT V
+
+Ejercicio 1 del Homework. Explicación de conceptos:
+
+PROTOTYPE: En JC todos los objetos tienen un prototipo. En codigo, un prototipo seria el que engloba todos los metodos o funciones que los obetos de una
+ determinada clase pueden compartir. Entonces hay un prototipo al que pertenece una clase de objetos, y cada objeto de esa clase puede acceder a los metodos de ese prototipo.
+ Cada clase tiene una propiedad prototype. Cada clase puede tener sus propias propiedades y a la vez, hereda las de su prototipo.
+
+ CONSTRUCTOR (de Clases): una clase define la plantilla o conjunto de propiedades que van a tener un conjunto de objetos, cada objeto es una instancia de esa plantilla o clase.
+ Para crear una clase de objetos de usa la Function Constructor, por convencion cdo se crea una funcion constructora de una clase, el nombre de esa clase va con la primer
+ letra en mayùscula. 
+ La funcion constructora no retorna nada, solo nos permite definir las propiedades de los objetos que va a contener.
+ Luego para cear cada objeto, uso la funcion, que retorna un objeto en una variable y al llamarla con 'new' y el nombre de la clase si me retorna un objeto en esea variable. 
+ Este llamadado a la funcion constructora es  instanciar un objeto.
