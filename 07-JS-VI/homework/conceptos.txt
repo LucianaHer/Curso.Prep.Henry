@@ -1,0 +1,12 @@
+HOMEWORK - JAVA SCRIPT VI
+
+Ejercicio 1 del Homework. Explicación de conceptos:
+
+*FUNCIONES CALLBACK:
+
+son First Class Functions. Java Scrip trata a las funciones como cualquier otro objeto, por lo tanto una funcion se puede pasar como argumento, se pueden guardas en 
+variables, en arrays u objetos.
+Cuando una funcion se pasa como argumento a otra funcion, se dice que es un callback (cb). Cuando se invoca ese callback, solo se pone el nombre de la funcion.
+Los arrays tienen algunos metodos callbacks, son funciones que como argumento llaman a otra funcion: array.forEach(cb)
+                                                                                                     array.map(cb)
+                                                                                                     array.reduce(cb)
